@@ -63,8 +63,12 @@
       <version>2.15.2</version>
     </dependency>
 
-
-
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-orm -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-orm</artifactId>
+      <version>6.0.10</version>
+    </dependency>
 
   </dependencies>
   <build>
